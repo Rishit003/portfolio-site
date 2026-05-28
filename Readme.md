@@ -17,7 +17,7 @@ A simple portfolio site to showcase all my in production projects.
 - smooth animations
 
 # Links
-- GitHub (
-- LinkedIn
-- Resume
+- GitHub (https://github.com/Rishit003)
+- LinkedIn (https://www.linkedin.com/in/rishit003/)
+- Email (rishitinc@gmail.com)
 
